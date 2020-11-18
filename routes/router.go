@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/owais-webonise/restapi/controllers"
+	"github.com/mirsaid-mirzohidov/restapi-golang/controllers"
 )
 
 func CreateRoute(router *mux.Router) {

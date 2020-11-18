@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/owais-webonise/restapi/models"
+	"github.com/mirsaid-mirzohidov/restapi-golang/models"
 )
 
 func Getstudents(w http.ResponseWriter, r *http.Request) {

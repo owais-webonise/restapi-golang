@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/owais-webonise/restapi/routes"
+	"github.com/mirsaid-mirzohidov/restapi-golang/routes"
 )
 
 func main() {
